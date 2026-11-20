@@ -1,0 +1,6 @@
+{
+  "name": "EmberTable",
+  "description": "Multi-restaurant management, QR table ordering, live kitchen display, floor operations, digital billing, and real-time analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
